@@ -13,7 +13,7 @@ Generate a Compliance / Security Summary for our tenant, including:
 <li>All active retention policies applied to SharePoint sites, Teams, and OneDrive accounts.</li>
 <li>All sensitivity labels applied across the tenant (SharePoint, Teams, Exchange).</li>
 <li>All DLP policies currently enforced.</li>
-</ol>
+</ol> 
 
 For each policy, include:
 <ul>
